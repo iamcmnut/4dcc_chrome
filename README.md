@@ -1,6 +1,6 @@
 # 4D Currency Converter
 A currency converter app for Google Chrome
------------------------
+
 I've created this app a couple years ago.
 But I don't have much time to improve it better and I just want let it die.
 
